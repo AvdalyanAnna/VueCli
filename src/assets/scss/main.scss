@@ -1,0 +1,16 @@
+// Helpers
+ @import "helpers/variables";
+ @import "helpers/mixins";
+
+// Vendor (Вендорные стили. Например от плагинов)
+
+// Common (основные стили.)
+@import "common/default";
+@import "common/fonts";
+
+// Components (мелкие визуальные элементы)
+
+// Modules (большие куски. Шапка, футер, продукт)
+
+// Pages (стили, котрые нужно применить для конкретной страницы)
+
